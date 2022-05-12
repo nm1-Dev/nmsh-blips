@@ -5,6 +5,7 @@
 
 ### [Official Nmsh Dev Discord Server](https://discord.gg/rfEs2VvaSd)
 
+# Configration
 ```lua
 local blips = {
     -- {id = "Blip Id / ايدي العلامة", name = "Blip Name / اسم العلامة", scale = 0.75, color = 2, sprite = 61, x = 0.0, y = 0.0, z = 0.0},
